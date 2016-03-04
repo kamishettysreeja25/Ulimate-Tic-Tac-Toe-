@@ -21,7 +21,7 @@ class Manual_player:
 		mvp = mvp.split()
 		return (int(mvp[0]), int(mvp[1]))
 
-from team33_ram import Player33 as Player1
+from team33_final import Player33 as Player1
 from team31_final import Player31 as Player2
 class Player12:
 	
